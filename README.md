@@ -8,4 +8,4 @@
 
 - The goal is to identify patterns that determine whether a game succeeds or not in order to spot potential big winners and for further advertising campaigns planning.
 
-- The project includes EDA, dealing with missing values, building graphs nad implementing statistical tests.
+- The project includes EDA, dealing with missing values, building graphs and heatmaps, examining correlations and implementing statistical tests.
